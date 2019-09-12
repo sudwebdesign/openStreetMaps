@@ -1,5 +1,8 @@
 #idées : "M.A.J. des données" de la BDD par CSV #tools #param
 
+## 1.2.1-light - 12/09/2019 ##
+Suppression des fichiers temporaires (sql et csv)
+
 ## 1.2.1 - 12/09/2019 ##
 [+] Compatible PluXml 5.7
 [*] info.xml
